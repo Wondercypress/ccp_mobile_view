@@ -1,1 +1,1 @@
-# ccp_mobile_view
+# starter_html
